@@ -75,4 +75,3 @@ app.controller('PostsCtrl', [
 }
   
 ]);
-
