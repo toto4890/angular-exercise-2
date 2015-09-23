@@ -73,6 +73,5 @@ app.controller('PostsCtrl', [
     $scope.body = '';
   };
 }
-  
-]);
+  ]);
 
